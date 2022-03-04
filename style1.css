@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Poppins&family=Raleway:ital,wght@0,400;1,500&family=Roboto+Mono&family=Rowdies:wght@300&family=Russo+One&family=Ubuntu:wght@300;500&display=swap');		
+body {
+    background-color: #8584f1;
+    margin-left : 14%;
+    margin-right: 14%;
+}
+
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 12vh;
+    font-family: 'Raleway', sans-serif;
+    
+    
+    
+}
+#gold{
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    font-style: italic;
+}
+img {
+    display: inline-block;
+    text-align: center;
+    width: 50%;
+    border-radius: 60%;
+    
+}
+
+div#para {
+    background-color: rgba(141, 141, 146, 0.746);
+    box-shadow: 10px 19px 41px -4px rgba(0,0,0,0.58) inset;
+-webkit-box-shadow: 10px 19px 41px -4px rgba(0,0,0,0.58) inset;
+-moz-box-shadow: 10px 19px 41px -4px rgba(0,0,0,0.58) inset;
+
+    font-family: sans-serif;
+    padding: 67px 68px;
+    margin: -190px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 60px;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1.title-APJ {
+    font-size: 35px;
+    color: #6765f1;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+.btn{
+    margin-top: 65px;
+    width: 200px;
+    height: 58px;
+    border-radius: 50px;
+    border-color: #8584f1;
+    font-size:30px;
+    background-color: rgb(255, 255, 255);
+    border-width: 10px;
+    
+}
